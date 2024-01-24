@@ -35,7 +35,7 @@ There is a README in each package, as well as comments in the source code.
 
 <pre>
 oreowallet
-├── <a href="https://github.com/oreoslabs/ironfish-extension">ironfish-extension</a>: OreoWallet frontend ui 
+├── <a href="https://github.com/oreoslabs/oreowallet-extension">oreowallet-extension</a>: OreoWallet frontend ui 
 ├── <a href="https://github.com/oreoslabs/ironfish-optimize">ironfish-optimize</a>: Optimized version of ironfish-rust for wasm env
 ├── <a href="https://github.com/oreoslabs/ironfish-wasm">ironfish-wasm</a>: Core wasm sdk of OreoWallet
 ├── <a href="https://github.com/oreoslabs/ironfish-server">server</a>: Backend for necessary api service and task scheduling
