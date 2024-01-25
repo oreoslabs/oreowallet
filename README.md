@@ -27,6 +27,24 @@ There are 4 types wallet for privacy blockchain like IronFish on my side.
 
 OreoWallet aims to build both Type2 and Type3 wallet for IronFish blockchain. Currently, we are on the way to Type2 wallet.
 
+## Type2 wallet features (v0.0.1)
+
+| Feature                 | Status |
+| ----------------------- | ------ |
+| Account creation/import | ✅      |
+| IRON native token       | ✅      |
+| User created asset      | ✅      |
+| Orescriptions NFT       | ✅      |
+| ...                     | ...    |
+
+## Type3 wallet features (In development)
+| Feature              | Status  |
+| -------------------- | ------- |
+| Dapp provider        | Ongoing |
+| Local decryption     | Ongoing |
+| Local notes indexing | Ongoing |
+| ...                  | ...     |
+
 ## Documentation
 
 There is a README in each package, as well as comments in the source code.
