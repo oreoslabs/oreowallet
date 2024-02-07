@@ -27,6 +27,34 @@ There are 4 types wallet for privacy blockchain like IronFish on my side.
 
 OreoWallet aims to build both Type2 and Type3 wallet for IronFish blockchain. Currently, we are on the way to Type2 wallet.
 
+## Development Roadmap
+
+### Milestone 1: Iron Fish wallet-only sdk in wasm
+- To build an extension wallet, wasm sdk is needed.
+- The sdk should support account creation and transaction creation to support type2 wallet.
+- The sdk should support all wallet functionalities to support type3/type4 wallet.
+
+### Milestone 2: Type2 wallet for better experience
+- Account creation, import, export (compatible with current Iron Fish wallet).
+- Support IRON native token transfer.
+- Support user created asset transfer.
+- Support native mint/burn transaction.
+- Support Orescriptions NFT display and transfer.
+
+### Milestone 3: Type3 wallet for better privacy
+- Transaction decryption locally.
+- A fully no-custodial type3 wallet.
+
+### Milestone 4: Intergation with privacy protocol on routing layer for fully privacy
+- Fully privay wallet both on routing level and transaction level. 
+
+### Milestone 5: More features enabled and ongoing maintenance updates
+- Local merkle tree storage optimization if we can.
+- Transaction decryption/creation optimization with webgpu if we can.
+- Support bridges if we have in Ironfish.
+- Continuous version iterative development.
+- Ongoing maintenance updates with long term support.
+
 ## Type2 wallet features (v0.0.1)
 
 | Feature                 | Status |
