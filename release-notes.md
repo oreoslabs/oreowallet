@@ -1,6 +1,6 @@
 # OreoWallet Release Notes
 
-## v0.0.1 (Type2)
+## v0.0.1
 
 - Support basic wallet functionality
 - Support IRON native asset

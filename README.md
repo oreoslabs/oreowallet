@@ -90,10 +90,13 @@ oreowallet
 ├── <a href="https://github.com/oreoslabs/ironfish-server">prover</a>: Prover to genereate proof for OreoWallet transactions
 </pre>
 
-## OreoWallet V1 arch (Type2)
+## OreoWallet V1 arch
 
 ![basic arch](assets/arch.svg)
 
+## OreoWallet provider api (In development)
+
+Check out [provider.md](./provider.md) for details on how to integrate OreoWallet into your dapps.
 
 ## Issues
 
