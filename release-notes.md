@@ -1,5 +1,14 @@
 # OreoWallet Release Notes
 
+## v0.0.2
+
+- Support Dapp provider
+- Support import via Ironfish spending key
+- Support change data provider
+- Support change prover
+- Support account management
+- UI/UX improvements
+
 ## v0.0.1
 
 - Support basic wallet functionality

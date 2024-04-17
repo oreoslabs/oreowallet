@@ -66,14 +66,16 @@ OreoWallet aims to build an easy-to-use Type2 extension wallet for Ironfish bloc
 
 ## Features
 
-| Feature                 | Status  |
-| ----------------------- | ------- |
-| Account creation/import | ✅       |
-| IRON native token       | ✅       |
-| User created asset      | ✅       |
-| Orescriptions NFT       | ✅       |
-| Dapp provider           | Ongoing |
-| ...                     | ...     |
+| Feature                 | Status |
+| ----------------------- | ------ |
+| Account creation/import | ✅      |
+| IRON native token       | ✅      |
+| User created asset      | ✅      |
+| Orescriptions NFT       | ✅      |
+| Dapp provider           | ✅      |
+| Local data provider     | ✅      |
+| Local prover            | ✅      |
+| ...                     | ...    |
 
 ## Documentation
 
