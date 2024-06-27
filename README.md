@@ -48,13 +48,13 @@ OreoWallet aims to build an easy-to-use Type2 extension wallet for Ironfish bloc
 ### Milestone 3 (V2): Optimizing data provider and improving user experience (Ongoing)
 - Prover, transaction proof generation
 - DecryptionWorker, transaction decryption
-- Encryption mechanism, design a mechanism to encrypt messages between server and user
+- Encryption mechanism, design a mechanism to encrypt messages between server and user 
 - 3 articles about Ironfish and OreoWallet
 - 3 activities with IFLabs to get more users
 - 5k OreoWallet users
 - 100k IRON in OreoWallet
 
-### Milestone 4: Intergation with privacy protocol on routing layer
+### Milestone 4: Intergation with privacy protocol on routing layer (Done)
 - Privay wallet on routing level and transaction level. 
 
 ### Milestone 5: More features enabled and ongoing maintenance updates
@@ -66,16 +66,17 @@ OreoWallet aims to build an easy-to-use Type2 extension wallet for Ironfish bloc
 
 ## Features
 
-| Feature                 | Status |
-| ----------------------- | ------ |
-| Account creation/import | ✅      |
-| IRON native token       | ✅      |
-| User created asset      | ✅      |
-| Orescriptions NFT       | ✅      |
-| Dapp provider           | ✅      |
-| Local data provider     | ✅      |
-| Local prover            | ✅      |
-| ...                     | ...    |
+| Feature                  | Status |
+| ------------------------ | ------ |
+| Account creation/import  | ✅      |
+| IRON native token        | ✅      |
+| User created asset       | ✅      |
+| Orescriptions NFT        | ✅      |
+| Dapp provider            | ✅      |
+| Local data provider      | ✅      |
+| Local prover             | ✅      |
+| Privacy on routing layer | ✅      |
+| ...                      | ...    |
 
 ## Documentation
 

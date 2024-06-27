@@ -1,5 +1,10 @@
 # OreoWallet Release Notes
 
+## v0.0.3
+
+- Support Nym mixnet
+- UI/UX improvements
+
 ## v0.0.2
 
 - Support Dapp provider
