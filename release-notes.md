@@ -1,5 +1,10 @@
 # OreoWallet Release Notes
 
+## v0.0.4
+
+- Rescan implemented (along with Quick scan)
+- UI/UX improvements
+
 ## v0.0.3
 
 - Support Nym mixnet

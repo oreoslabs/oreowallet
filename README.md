@@ -76,6 +76,7 @@ OreoWallet aims to build an easy-to-use Type2 extension wallet for Ironfish bloc
 | Local data provider      | ✅      |
 | Local prover             | ✅      |
 | Privacy on routing layer | ✅      |
+| Quick scan               | ✅      |
 | ...                      | ...    |
 
 ## Documentation
